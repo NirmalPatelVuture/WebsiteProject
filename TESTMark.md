@@ -4,7 +4,6 @@ Readme file for website project.
 
 ## Purpose
 
-This Purpose of this repo is to provide a real world example
-to work with Git courses.
+Removing the unnecessary stuffs
 
-Cool stuff goes here
+Important file for this project - DO NOT DELETE THIS
